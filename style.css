@@ -24,3 +24,6 @@ body{
 .grayscale{
     filter: grayscale(100%);
 }
+.bg-rating{
+    color:  #E77C40;
+}
